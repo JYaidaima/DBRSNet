@@ -1,2 +1,3 @@
 # DBRSNet
-BRSNet paper code
+BRSNet paper code.
+Publish the code after the paper is published.
